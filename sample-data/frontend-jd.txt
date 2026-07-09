@@ -1,0 +1,38 @@
+Job Title: Frontend Developer
+Company: Bluewave Retail Tech
+Location: Remote
+Job Type: Full-time
+Experience Level: Entry-level to 2 years
+
+About the Role:
+Bluewave Retail Tech builds e-commerce tooling used by mid-sized online retailers. We're hiring a
+Frontend Developer to help build and polish the customer-facing storefront and internal merchant
+dashboard.
+
+Responsibilities:
+- Build responsive, cross-browser user interfaces using React and TypeScript.
+- Translate Figma designs into pixel-accurate, accessible components.
+- Consume REST APIs and manage client-side state cleanly.
+- Optimize frontend performance (bundle size, lazy loading, rendering performance).
+- Write reusable UI components and maintain a shared component library.
+- Collaborate with backend engineers on API contracts.
+- Fix cross-browser and responsive layout bugs reported by QA.
+
+Required Skills:
+- Strong knowledge of HTML, CSS, and modern JavaScript (ES6+)
+- Hands-on experience with React and component-based architecture
+- Experience with TypeScript
+- Familiarity with responsive design and CSS frameworks (Tailwind CSS or similar)
+- Experience with Git version control
+
+Preferred Skills:
+- Experience with React Router and client-side routing patterns
+- Familiarity with charting libraries (Recharts, Chart.js, or similar)
+- Basic understanding of accessibility (WCAG) best practices
+- Exposure to design tools like Figma
+
+Minimum Education:
+Bachelor's degree in Computer Science, IT, or a related field preferred; strong portfolio projects
+considered in lieu of formal degree.
+
+Salary Range: 4-7 LPA

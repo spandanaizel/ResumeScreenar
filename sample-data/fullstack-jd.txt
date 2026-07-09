@@ -1,0 +1,39 @@
+Job Title: Full Stack Developer
+Company: Nimbus Technologies
+Location: Bengaluru, India (Hybrid)
+Job Type: Full-time
+Experience Level: 1-3 years
+
+About the Role:
+Nimbus Technologies is looking for a Full Stack Developer to join our product engineering team.
+You will work across the stack to build and maintain customer-facing web applications, collaborating
+closely with product managers and designers to ship features end to end.
+
+Responsibilities:
+- Design, build, and maintain RESTful APIs using Node.js and Express.
+- Develop responsive, accessible user interfaces using React and TypeScript.
+- Model and manage application data using MongoDB.
+- Write clean, well-tested code and participate in code reviews.
+- Collaborate with designers to implement pixel-accurate, responsive UI using Tailwind CSS.
+- Integrate third-party and internal APIs, including authentication and payment providers.
+- Debug and resolve production issues across the stack.
+- Participate in sprint planning and technical design discussions.
+
+Required Skills:
+- Strong proficiency in JavaScript/TypeScript
+- Hands-on experience with React (hooks, component design, state management)
+- Backend experience with Node.js and Express
+- Experience with MongoDB or another NoSQL database
+- Understanding of REST API design and JWT-based authentication
+- Familiarity with Git and collaborative development workflows
+
+Preferred Skills:
+- Experience with Tailwind CSS or another utility-first CSS framework
+- Exposure to cloud platforms (AWS, Render, Vercel, or similar)
+- Experience writing unit/integration tests
+- Familiarity with CI/CD pipelines
+
+Minimum Education:
+Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent practical experience).
+
+Salary Range: 6-10 LPA

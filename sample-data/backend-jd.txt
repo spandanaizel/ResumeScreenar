@@ -1,0 +1,38 @@
+Job Title: Backend Developer (Node.js)
+Company: Ferrow Systems
+Location: Hyderabad, India (On-site)
+Job Type: Full-time
+Experience Level: 2-4 years
+
+About the Role:
+Ferrow Systems is hiring a Backend Developer to help design and scale the APIs powering our internal
+analytics platform. You'll own service design, database schema decisions, and API reliability.
+
+Responsibilities:
+- Design and implement RESTful APIs using Node.js and Express.
+- Model relational and document data and write efficient MongoDB queries.
+- Implement secure authentication and authorization (JWT, role-based access control).
+- Write middleware for validation, error handling, logging, and rate limiting.
+- Integrate third-party services and APIs, including AI/ML service providers.
+- Optimize database queries and API response times under load.
+- Write unit and integration tests for critical business logic.
+- Participate in code review and mentor junior engineers.
+
+Required Skills:
+- Strong experience with Node.js and Express
+- Solid understanding of MongoDB (schema design, indexing, aggregation)
+- Experience implementing JWT-based authentication and role-based authorization
+- Understanding of REST API design principles and HTTP semantics
+- Experience with Git and collaborative code review workflows
+- Comfortable working with rate limiting, input validation, and centralized error handling
+
+Preferred Skills:
+- Experience integrating third-party AI APIs (OpenAI, Gemini, or similar)
+- Familiarity with file upload handling (Multer or similar) and binary data processing
+- Experience with cloud deployment (Render, Railway, AWS, or similar)
+- Exposure to automated testing frameworks (Jest, Mocha, or similar)
+
+Minimum Education:
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+
+Salary Range: 8-12 LPA
